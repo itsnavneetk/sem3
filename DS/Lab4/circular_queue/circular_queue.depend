@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1472120471 source:c:\tc\bin\saksham\circular_queue\main.cpp
+	<iostream>
+
+1472120642 source:c:\tc\bin\circular_queue\main.cpp
+	<iostream>
+
